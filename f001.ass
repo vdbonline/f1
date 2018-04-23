@@ -12,12 +12,12 @@ YCbCr Matrix: TV.601
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: fonte legenda,Tahoma,30,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
-Style: legenda para abertura e encerramento,@GungsuhChe,30,&H0000C6FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
-Style: legenda para anuncio de episódio e creditos,Brush Script Std,35,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
-Style: LEGENDA PARA PODERES,AR JULIAN,35,&H00F0E7BE,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
-Style: anuncio dos locais,Tekton Pro Ext,35,&H00D0FAD0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
-Style: musica no video,@Kozuka Gothic Pro H,35,&H00D0FAD0,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: fonte legenda,Tahoma,22,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para abertura e encerramento,Bree Serif,22,&H0000C6FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: legenda para anuncio de episódio e creditos,Bree Serif,22,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: LEGENDA PARA PODERES,Bree Serif,22,&H00F0E7BE,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: anuncio dos locais,Bree Serif,22,&H00D0FAD0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: musica no video,Bree Serif,22,&H00D0FAD0,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,2,10,10,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
