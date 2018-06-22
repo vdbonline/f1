@@ -21,10 +21,10 @@ Style: EpTitle,Trebuchet MS,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.10,EndingJP,,0,0,0,,{\fad(600,600)}vdbonline.blogspot.com
-Dialogue: 0,0:00:07.30,0:00:09.50,Main,,0,0,0,,Lute comigo!
+Dialogue: 0,0:00:07.00,0:00:09.50,Main,,0,0,0,,Lute comigo!
 Dialogue: 0,0:00:10.00,0:00:12.10,Main,,0,0,0,,Isso é um Saiyajin?
 Dialogue: 0,0:00:12.50,0:00:15.10,Main,,0,0,0,,Eu nunca senti um ki tão maligno antes!
 Dialogue: 0,0:00:16.10,0:00:17.50,Main,,0,0,0,,O que há de errado, Kakaroto ?!
 Dialogue: 0,0:00:18.00,0:00:21.55,Main,,0,0,0,,O experimento mais interessante do universo finalmente entra em sua fase principal!
-Dialogue: 0,0:00:21.57,0:00:24.30,Main,,0,0,0,,A luta continua!
+Dialogue: 0,0:00:21.57,0:00:24.10,Main,,0,0,0,,A luta continua!
 Dialogue: 0,0:00:24.30,0:00:26.30,Main,,0,0,0,,Não perca!
